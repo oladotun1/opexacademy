@@ -1,2 +1,2 @@
 # opexacademy
-Welcome to OpexAcademy Version 1
+Welcome to OpexAcademy Version 2
